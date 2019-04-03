@@ -1,9 +1,6 @@
 The next step in our programming journey requires us to think about how we can model concepts from our problem's domain. To do that, we'll often use classes to create completely new data types. In this lesson, we'll create our very first class and learn how to work with its data and functionality.
 
-Python Documentation For This Video
-Classes
-Defining New Types
-Up to this point, we've been working with the built-in types that Python provides (str, int, float, etc.), but when we're modeling problems in our programs we often want to have more complex objects that fit our problem's domain. For instance, if we were writing a program to model information about cars (for an automotive shop) then it would make sense for us to have an object type that represents a car. This is where we start working will classes.
+Defining New Types Up to this point, we've been working with the built-in types that Python provides (str, int, float, etc.), but when we're modeling problems in our programs we often want to have more complex objects that fit our problem's domain. For instance, if we were writing a program to model information about cars (for an automotive shop) then it would make sense for us to have an object type that represents a car. This is where we start working will classes.
 
 From this point on, most of the code that we'll be writing will be in files. Let's create a learning_python directory to hold these files that are really only there to facilitate learning.
 
